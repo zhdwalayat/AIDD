@@ -1,8 +1,8 @@
-# How to Run This Project - Instructions for Teacher
+# How to Run NOTE-X - Instructions for Teacher
 
 ## 🎯 Project Purpose
 
-This is an AI-powered academic note generation system. When you provide a topic (text, PDF, or URL), it automatically generates:
+NOTE-X is an AI-powered academic note generation system. When you provide a topic (text, PDF, or URL), it automatically generates:
 - Comprehensive study notes with academic rigor
 - Flash cards for reinforcement (Q/A format)
 - Assessment quiz (multiple-choice with 70% passing threshold)
@@ -321,7 +321,7 @@ After running this system with your own topic, you should have:
 
 ---
 
-## ✨ What Makes This Project Special
+## ✨ What Makes NOTE-X Special
 
 1. **Pedagogically Sound**: Based on Bloom's Taxonomy and mastery learning principles
 2. **Adaptive**: Adjusts to user performance with personalized feedback

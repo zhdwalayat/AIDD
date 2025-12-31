@@ -1,8 +1,8 @@
-# Academic Note Generation System
+# NOTE-X: Academic Note Generation System
 
 ## Project Overview
 
-This repository contains an AI-powered academic note generation system designed to create mastery-level study materials. The system combines structured specification-driven workflows with AI-assisted content generation to produce comprehensive notes, reinforcement flash cards, and adaptive assessments.
+NOTE-X is an AI-powered academic note generation system designed to create mastery-level study materials. The system combines structured specification-driven workflows with AI-assisted content generation to produce comprehensive notes, reinforcement flash cards, and adaptive assessments.
 
 ## System Architecture
 
